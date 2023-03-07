@@ -1,0 +1,109 @@
+commit da6a8eb25c7e04b413d49bc508a84ca3347879f9
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Tue Mar 7 12:28:32 2023 -0600
+
+    Agregando 2 parrafos
+
+commit 9a00cf0c00e3ab2365af8e09642b5141f11e09ba
+Merge: d65dbad d447ec7
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Tue Mar 7 12:19:25 2023 -0600
+
+    Resolvieno conflicto en estaciones del año
+
+commit d65dbadb772ed272f5e595046a436c8c8bdf19d2
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Tue Mar 7 12:03:17 2023 -0600
+
+    Agregando las estaciones del año con fecha de inicio
+
+commit d447ec7375ba439ef425f635af6cbd782bb060d1
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Tue Mar 7 12:03:17 2023 -0600
+
+    Agregando las estaciones del año
+
+commit d3be9885a032688fa0886c37a61b2b311726bd1e
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 15:07:19 2023 -0600
+
+    Resolviendo conflicto en html en el documento index.html
+
+commit 2f22d9f362bdddcc261b9d4085966e45bc9d50c0
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 14:47:57 2023 -0600
+
+    Agregando style-css al index.html
+
+commit a1b215fcf2b83893bcb5fc755f9c77871349ce9f
+Merge: 19a7c8f dc657e6
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 14:34:26 2023 -0600
+
+    Merge branch 'js'
+
+commit dc657e60847cd0230ee3b26c2431e88345611a7f
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 14:28:44 2023 -0600
+
+    Creando index.js
+
+commit 19a7c8f509ae225b43d200f133eb960c7b9928db
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 14:23:08 2023 -0600
+
+    creando style.css
+
+commit 929deed05130b9f01bb9772d01d8797ac2bc50be
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 14:17:07 2023 -0600
+
+    Creando index.html
+
+commit 6dcfb8fcd0ba233406ea3e8c4002664b839e786f
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 14:02:13 2023 -0600
+
+    ignorando archivos .exe
+
+commit e98ba07309b1c70204bedf3d9fd9f1557b59302c
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 13:57:51 2023 -0600
+
+    ignorando archivos .exe
+
+commit e2fc0fc2313e70f969b2238a79e623a12175a19e
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Fri Mar 3 13:56:09 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 853062e0cd1586b1770815c60e5c71299233a628
+Author: 29layun <110917004+29layun@users.noreply.github.com>
+Date:   Thu Mar 2 14:20:59 2023 -0600
+
+    Creando licencia del repositorio
+
+commit a13c5879158dc838bea0dfc034ece5e26101ea8b
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Thu Mar 2 14:13:05 2023 -0600
+
+    Agregando mas contenido al Readme
+
+commit 5f2b6f8cc4f1150d3d72dd9ef4349a76ab764fe0
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Thu Mar 2 14:07:58 2023 -0600
+
+    Agregando mas contenido al Readme
+
+commit f2b6af68261e4927cec6d13bab22358ce3189304
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Thu Mar 2 13:51:21 2023 -0600
+
+    Agregando contenido inicial a Readme
+
+commit bfc8d86b5ab2894130e76cb419365c23db157dad
+Author: 29layun <mjimenezt003@alumno.uaemex.mx>
+Date:   Thu Mar 2 13:44:53 2023 -0600
+
+    primer commit
